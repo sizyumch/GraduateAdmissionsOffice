@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="GraduateAdmissionsOffice:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/GraduateAdmissionsOffice_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GraduateAdmissionsOffice/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="GraduateAdmissionsOffice:war exploded" />
+      </element>
+      <element id="directory" name="lib" />
+    </root>
+  </artifact>
+</component>
